@@ -10,3 +10,5 @@ Thumbs.db
 MazeOfLife\MazeOfLife\bin*/
 MazeOfLife\MazeOfLife\obj*/
 MazeOfLife\TestResults*/
+*.mdf
+*.ldf
