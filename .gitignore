@@ -1,0 +1,12 @@
+# git ignore file
+Thumbs.db
+*.obj
+*.exe
+*.log
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+*/bin/*
+MazeOfLife\MazeOfLife\bin*/
+MazeOfLife\MazeOfLife\obj*/
+MazeOfLife\TestResults*/
